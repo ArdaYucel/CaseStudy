@@ -1,4 +1,4 @@
-# X9n5gQ96UrrPzLn6
+# CaseStudy
 Case
 
 #So if we create an algorithm which says no to everyone, then the accuracy will be 37104/40000 which is %92.76
